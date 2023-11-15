@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update All User Info</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>a5711e12-7d2e-442e-93ca-27780e6b6f85</testCaseGuid>
+</TestCaseEntity>

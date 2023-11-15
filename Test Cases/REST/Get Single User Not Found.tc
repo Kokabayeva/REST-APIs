@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Single User Not Found</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <testCaseGuid>515b22b5-d160-4ec0-a6e2-b57ae1f8b97b</testCaseGuid>
+</TestCaseEntity>
